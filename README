@@ -1,0 +1,5 @@
+Things about settin up the environment for notebook in VS Code:
+- Make sure code blocks in *.ipynb files say 'Python', and not 'R'. Change if incorrect.
+- You can use the Terminal in VSCode to activate an environment too.
+
+
